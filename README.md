@@ -1,10 +1,9 @@
-# Diario-de-Humor-e-Habitos-MoodTrack-
+# Diario-de-Humor-e-Habitos
 
-Especificações Técnicas Obrigatórias
-Desenvolva uma aplicação web que permita ao usuário registrar diariamente seu humor (escala de 1 a 5) e hábitos concluídos (ex.: estudo, treino, leitura), exibindo gráficos semanais e mensais. O objetivo foi praticar conceitos de front-end e introduzir persistência local e visualização de dados.
+### Especificações Técnicas Obrigatórias:
+Desenvolver uma aplicação web que permita ao usuário registrar diariamente seu humor (escala de 1 a 5) e hábitos concluídos (ex.: estudo, treino, leitura), exibindo gráficos semanais e mensais. O objetivo foi praticar conceitos de front-end e introduzir persistência local e visualização de dados.
 
-# Tecnologias utilizadas:
-
+### Tecnologias utilizadas:
 - React;
 - JavaScript (ES6+);
 - HTML5;
@@ -12,8 +11,7 @@ Desenvolva uma aplicação web que permita ao usuário registrar diariamente seu
 - LocalStorage (persistência de dados no navegador);
 - Recharts (gráficos) — pode ser substituído por outra lib de charts.
 
-# O que aprendeu:
-
+### O que aprendeu:
 Gerenciamento de Estado: composição de estados para formular e listar registros; uso de useState para inputs controlados;
 
 Efeitos e Persistência: useEffect para salvar e carregar dados do localStorage sem backend;
